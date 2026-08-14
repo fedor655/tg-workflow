@@ -1,0 +1,17 @@
+# секреты и сессия — НИКОГДА не коммитим
+_tg_secret.py
+_tg_session*
+*.session
+*.session-journal
+
+# личные данные
+выгрузки/
+расшифровки/
+созвоны/
+голосовые/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
